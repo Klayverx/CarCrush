@@ -9,7 +9,7 @@ const context = canvas.getContext('2d');
 let gameOver = false;
 
 let gameTick = 100;
-let newCarTick = 100;
+let newCarTick = 85;
 
 const player = new Player(context, 236, 720);
 
